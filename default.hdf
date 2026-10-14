@@ -7,7 +7,8 @@ EventConfig=false
 ContestConfig=false
 
 [Always]
-Wallpaper=default
+Wallpaper=https://raw.githubusercontent.com/huicholabs/huronosFI/main/fondo.jpeg
+WallpaperSha256=3297f598de35093a45731f1216fe4b04ef11707e0e2f077122d3e560811a8aa6
 AllowUsbStorage=false
 AllowedWebsites=boca.icpcmexico.org|contest.helium.icpcmexico.org/codefem-2026|
 Bookmarks={BOCA^https://boca.icpcmexico.org/}|{CODEFEM^https://contest.helium.icpcmexico.org/codefem-2026}|
