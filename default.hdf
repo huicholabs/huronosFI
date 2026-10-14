@@ -2,17 +2,17 @@
 TimeZone=America/Mexico_City
 ConfigExpirationTime=never
 AvailableKeyboardLayouts=latam|es|us|
-DefaultKeyboardLayout=latam
+DefaultKeyboardLayout=es
 EventConfig=false
 ContestConfig=false
 
 [Always]
-Wallpaper=https://raw.githubusercontent.com/huicholabs/huronosFI/main/fondo.jpeg
+Wallpaper=https://raw.githubusercontent.com/cpcfi/huronos-config/main/fondo-cpcfi.jpg
 WallpaperSha256=3297f598de35093a45731f1216fe4b04ef11707e0e2f077122d3e560811a8aa6
 AllowUsbStorage=false
 AllowedWebsites=boca.icpcmexico.org|contest.helium.icpcmexico.org/codefem-2026|
 Bookmarks={BOCA^https://boca.icpcmexico.org/}|{CODEFEM^https://contest.helium.icpcmexico.org/codefem-2026}|
-AvailableSoftware=internet/chrome|internet/chromium|internet/firefox|langs/g++|langs/gcc|langs/javac|langs/pypy3|langs/python3|tools/byobu|tools/konsole|tools/midnight-commander|programming/gedit|programming/gvim|programming/kdevelop|programming/sublime|programming/vim|programming/vscode|
+AvailableSoftware=internet/chrome|internet/chromium|internet/firefox|langs/g++|langs/gcc|langs/javac|langs/pypy3|langs/python3|tools/konsole|programming/gedit|programming/sublime|programming/vim|programming/vscode|
 
 [Event]
 
